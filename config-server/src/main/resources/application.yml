@@ -18,3 +18,5 @@ spring:
 #spring.cloud.config.label：配置仓库的分支
 #spring.cloud.config.server.git.username：访问git仓库的用户名
 #spring.cloud.config.server.git.password：访问git仓库的用户密码
+
+#测试地址http://localhost:8888/config-client-dev.properties，会出现配置的属性
